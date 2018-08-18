@@ -28,7 +28,7 @@ $this->params['breadcrumbs'][] = $this->title;
 
             'employee_id',
             'employee_name',
-            'company_id',
+            //'company_id',
 			[
 				'attribute'=>'company_id',
 				'value'=>'company.company_name',

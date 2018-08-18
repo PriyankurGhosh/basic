@@ -46,7 +46,7 @@ class EmployeeDetails extends \yii\db\ActiveRecord
             'employee_id' => 'Employee ID',
             'employee_name' => 'Employee Name',
             //'company_id' => 'Company ID',
-			'company_id' => 'Company Name',
+			'company_name' => 'Company Name',
             'employee_email' => 'Employee Email',
         ];
     }
